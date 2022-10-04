@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 04 Oct 2022 21:28:43 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 21:46:12 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -18914,7 +18914,7 @@ spring.security.user.password=mszlu
 &lt;/div&gt;&lt;p&gt;其中，&lt;code&gt;weight&lt;/code&gt; 可自行修改一下。&lt;/p&gt;
 &lt;h3 id=&#34;7-hugo使用过程中遇到的问题&#34;&gt;7 hugo使用过程中遇到的问题&lt;/h3&gt;
 &lt;h4 id=&#34;71-新建文章部署完不显示&#34;&gt;7.1 新建文章部署完，不显示&lt;/h4&gt;
-&lt;p&gt;format中draft值为true，表示文章是草稿，只在&lt;code&gt;hugo serve -D&lt;/code&gt;中显示该文章&lt;/p&gt;
+&lt;p&gt;Front Matter中draft值为true，表示文章是草稿，只在&lt;code&gt;hugo serve -D&lt;/code&gt;中显示该文章&lt;/p&gt;
 </description>
                 
                 

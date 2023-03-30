@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2023-03-28T16:44:08+08:00</lastmod>
+    <lastmod>2023-03-30T15:56:42+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-03-28T16:44:08+08:00</lastmod>
+    <lastmod>2023-03-30T15:56:42+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-28T16:44:08+08:00</lastmod>
+    <lastmod>2023-03-30T15:56:42+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/vue/</loc>
     <lastmod>2023-03-28T16:44:08+08:00</lastmod>
@@ -240,7 +240,7 @@
     <lastmod>2022-06-01T18:04:45+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/mac/</loc>
-    <lastmod>2022-04-13T16:03:19+08:00</lastmod>
+    <lastmod>2023-03-30T15:56:42+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/mac%E8%A7%A3%E5%86%B3%E4%BD%A0%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%B8%8D%E6%98%AF%E7%A7%81%E5%AF%86%E8%BF%9E%E6%8E%A5/</loc>
     <lastmod>2022-04-13T16:03:19+08:00</lastmod>
@@ -425,8 +425,11 @@
     <loc>https://example.com/post/m1mac%E6%80%8E%E4%B9%88%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDminiconda/</loc>
     <lastmod>2022-03-31T22:25:05+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/mac%E4%B8%AD%E7%9A%84say%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2022-03-31T22:25:30+08:00</lastmod>
+    <loc>https://example.com/post/mac-os/</loc>
+    <lastmod>2023-03-30T15:56:42+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/mac%E4%B8%AD%E5%87%BA%E7%8E%B0/</loc>
+    <lastmod>2023-03-30T15:56:09+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/mac%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</loc>
     <lastmod>2022-03-31T22:25:22+08:00</lastmod>

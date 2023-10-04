@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/tags/docker/</loc>
+    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/docker%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/java/</loc>
     <lastmod>2023-09-27T19:51:48+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/mysql/</loc>
     <lastmod>2023-09-24T18:57:06+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-09-27T19:51:48+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-09-27T19:51:48+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/postgresql/</loc>
     <lastmod>2023-09-24T18:57:06+08:00</lastmod>
@@ -23,17 +32,11 @@
     <loc>https://example.com/post/stream%E6%B5%81%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E5%A4%A7%E5%85%A8/</loc>
     <lastmod>2023-09-27T19:51:48+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-09-27T19:51:48+08:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/bugs/</loc>
     <lastmod>2023-08-26T22:45:04+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/maven%E6%97%A0%E6%B3%95%E4%BB%8E%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%AD%E5%A4%AE%E4%BB%93%E5%BA%93%E4%B8%8B%E8%BD%BDjar%E5%8C%85%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2023-08-26T22:45:04+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/docker/</loc>
-    <lastmod>2023-08-18T19:29:14+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/docker%E5%AE%B9%E5%99%A8%E6%97%B6%E9%97%B4%E4%B8%8E%E5%AE%BF%E4%B8%BB%E6%9C%BA%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4/</loc>
     <lastmod>2023-08-18T19:29:14+08:00</lastmod>
@@ -48,7 +51,7 @@
     <lastmod>2023-04-23T14:43:43+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/mac/</loc>
-    <lastmod>2023-09-24T17:23:22+08:00</lastmod>
+    <lastmod>2023-10-04T21:48:27+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/macos%E5%87%BA%E7%8E%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8D%9F%E5%9D%8F%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3/</loc>
     <lastmod>2023-03-30T16:00:57+08:00</lastmod>
@@ -456,7 +459,7 @@
     <lastmod>2022-03-31T22:24:16+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/homebrew%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2022-03-31T22:24:13+08:00</lastmod>
+    <lastmod>2023-10-04T21:48:27+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/item2-&#43;-oh-my-zsh%E4%BF%AE%E6%94%B9%E5%89%8D%E7%BC%80%E5%90%8D%E7%A7%B0/</loc>
     <lastmod>2022-03-31T22:24:28+08:00</lastmod>

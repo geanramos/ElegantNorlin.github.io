@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/rabbitmq/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/springboot/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/springboot%E4%B8%AD%E4%BD%BF%E7%94%A8rabbitmq/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-10-06T19:42:01+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/docker/</loc>
     <lastmod>2023-10-04T21:53:16+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/docker%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-10-04T21:53:16+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2023-10-04T21:53:16+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/java/</loc>
@@ -130,9 +139,6 @@
   </url><url>
     <loc>https://example.com/post/redis%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-09-25T20:54:49+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/springboot/</loc>
-    <lastmod>2022-09-18T13:13:11+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/springboot%E6%95%B4%E5%90%88postgresql/</loc>
     <lastmod>2022-09-18T13:13:11+08:00</lastmod>
